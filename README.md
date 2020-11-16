@@ -9,7 +9,7 @@ where you can find lab codes, datasets and figures. However all the codes are in
   [Lab: Logistic Regression, LDA, QDA, and KNN](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%203/Boston_dataset.ipynb)
 * Chapter 5: Resampling Methods\
   Cross-Validation\
-  Bootstrap
+  Bootstrap\
   [Lab: Cross-Validation and the Bootstrap](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%205/Cross_Validation_Bootstrap.ipynb)
 * Chapter 6: Linear Model Selection and Regularization\
   Subset Selection\
