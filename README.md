@@ -35,7 +35,7 @@ where you can find lab codes, datasets and figures. However all the codes are in
 * Chapter 8: Tree-Based Methods\
   The Basics of Decision Trees\
   Bagging, Random Forests, Boosting\
-  [Lab: Decision Trees]()
+  [Lab: Decision Trees](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%208/Fitting%20Regression%20Trees.ipynb)
   
 * Chapter 9: Support Vector Machines\
   Maximal Margin Classifier\
@@ -43,13 +43,13 @@ where you can find lab codes, datasets and figures. However all the codes are in
   Support Vector Machines\
   SVMs with More than Two Classes\
   Relationship to Logistic Regression\
-  [Lab: Support Vector Machines]()
+  [Lab: Support Vector Machines](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%209/SVM.ipynb)
   
 * Chapter 10: Unsupervised Learning\
   Principal Components Analysis\
   Clustering Methods\
     K-Means Clustering\
     Hierarchical Clustering\
-  [Lab 1: Principal Components Analysis]()\
-  [Lab 2: Clustering]()\
-  [Lab 3: NCI60 Data Example]()
+  [Lab 1: Principal Components Analysis](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%2010/Lab%201_Principal%20Components%20Analysis.ipynb)\
+  [Lab 2: Clustering](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%2010/Lab%202_Clustering.ipynb)\
+  [Lab 3: NCI60 Data Example](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%2010/Lab%203_NCI60%20Data%20Example.ipynb)
