@@ -6,19 +6,19 @@ where you can find lab codes, datasets and figures. However all the codes are in
 * Chapter 4: Classification\
   Logistic Regression\
   Linear Discriminate Analysis\
-  [Lab: Logistic Regression, LDA, QDA, and KNN](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%203/Boston_dataset.ipynb)\
+  [Lab: Logistic Regression, LDA, QDA, and KNN](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%203/Boston_dataset.ipynb)
 * Chapter 5: Resampling Methods\
   Cross-Validation\
   Bootstrap
-  [Lab: Cross-Validation and the Bootstrap](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%205/Cross_Validation_Bootstrap.ipynb)\
+  [Lab: Cross-Validation and the Bootstrap](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%205/Cross_Validation_Bootstrap.ipynb)
 * Chapter 6: Linear Model Selection and Regularization\
   Subset Selection\
   Shrinkage Methods\
   Dimension Reduction Methods\
-  Considerations in High Dimensions
+  Considerations in High Dimensions\
   [Lab 1: Subset Selection Methods](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%206/Lab1/Lab1.ipynb)\
   [Lab 2: Ridge Regression and the Lasso](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%206/Lab2/Lab2.ipynb)\
-  [Lab 3: PCR and PLS Regression](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%206/Lab3/Lab%203.ipynb)\
+  [Lab 3: PCR and PLS Regression](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%206/Lab3/Lab%203.ipynb)
 * Chapter 7: Moving Beyond Linearity\
   Polynomial Regression\
   Step Functions\
@@ -26,19 +26,19 @@ where you can find lab codes, datasets and figures. However all the codes are in
   Regression Splines\
   Smoothing Splines\
   Local Regression\
-  Generalized Additive Models
+  Generalized Additive Models\
   [Lab: Non-linear Modeling](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%207/Lab_Non-linear%20Modeling.ipynb)\
 * Chapter 8: Tree-Based Methods\
   The Basics of Decision Trees\
   Bagging, Random Forests, Boosting\
-  [Lab: Decision Trees]()\
+  [Lab: Decision Trees]()
 * Chapter 9: Support Vector Machines\
   Maximal Margin Classifier\
   Support Vector Classifiers\
   Support Vector Machines\
   SVMs with More than Two Classes\
   Relationship to Logistic Regression\
-  [Lab: Support Vector Machines]()\
+  [Lab: Support Vector Machines]()
 * Chapter 10: Unsupervised Learning\
   Principal Components Analysis\
   Clustering Methods\
@@ -46,4 +46,4 @@ where you can find lab codes, datasets and figures. However all the codes are in
     Hierarchical Clustering\
   [Lab 1: Principal Components Analysis]()\
   [Lab 2: Clustering]()\
-  [Lab 3: NCI60 Data Example]()\
+  [Lab 3: NCI60 Data Example]()
