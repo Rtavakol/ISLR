@@ -10,9 +10,9 @@ where you can find lab codes, datasets and figures. However all the codes are in
   Cross-Validation\
   Bootstrap
 * [Chapter 6: Linear Model Selection and Regularization]()\
-  [Subset Selection Methods]()
-  [Ridge Regression and the Lasso]()
-  [PCR and PLS Regression]()
+  [Subset Selection Methods]()\
+  [Ridge Regression and the Lasso]()\
+  [PCR and PLS Regression]()\
   Subset Selection\
   Shrinkage Methods\
   Dimension Reduction Methods\
