@@ -3,21 +3,23 @@ Python written exercises of 'Introduction to Statistical Learning with Applicati
 http://faculty.marshall.usc.edu/gareth-james/ISL/
 where you can find lab codes, datasets and figures. However all the codes are in R. It would be a good practise to do excercises in Python.
 
-* [Chapter 4: Classification](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%203/Boston_dataset.ipynb)\
+* Chapter 4: Classification\
   Logistic Regression\
-  Linear Discriminate Analysis
-* [Chapter 5: Resampling Methods](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%205/Cross_Validation_Bootstrap.ipynb)\
+  Linear Discriminate Analysis\
+  [Lab: Logistic Regression, LDA, QDA, and KNN](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%203/Boston_dataset.ipynb)\
+* Chapter 5: Resampling Methods\
   Cross-Validation\
   Bootstrap
-* [Chapter 6: Linear Model Selection and Regularization](https://github.com/Rtavakol/ISLR/tree/master/Notebooks/Chapter%206)\
-  [Subset Selection Methods](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%206/Lab1/Lab1.ipynb)\
-  [Ridge Regression and the Lasso](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%206/Lab2/Lab2.ipynb)\
-  [PCR and PLS Regression](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%206/Lab3/Lab%203.ipynb)\
+  [Lab: Cross-Validation and the Bootstrap](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%205/Cross_Validation_Bootstrap.ipynb)\
+* Chapter 6: Linear Model Selection and Regularization\
   Subset Selection\
   Shrinkage Methods\
   Dimension Reduction Methods\
   Considerations in High Dimensions
-* [Chapter 7: Moving Beyond Linearity](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%207/Lab_Non-linear%20Modeling.ipynb)\
+  [Lab 1: Subset Selection Methods](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%206/Lab1/Lab1.ipynb)\
+  [Lab 2: Ridge Regression and the Lasso](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%206/Lab2/Lab2.ipynb)\
+  [Lab 3: PCR and PLS Regression](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%206/Lab3/Lab%203.ipynb)\
+* Chapter 7: Moving Beyond Linearity\
   Polynomial Regression\
   Step Functions\
   Basis Functions\
@@ -25,20 +27,23 @@ where you can find lab codes, datasets and figures. However all the codes are in
   Smoothing Splines\
   Local Regression\
   Generalized Additive Models
-* [Chapter 8: Tree-Based Methods]()\
+  [Lab: Non-linear Modeling](https://github.com/Rtavakol/ISLR/blob/master/Notebooks/Chapter%207/Lab_Non-linear%20Modeling.ipynb)\
+* Chapter 8: Tree-Based Methods\
   The Basics of Decision Trees\
   Bagging, Random Forests, Boosting\
-* [Chapter 9: Support Vector Machines]()\
+  [Lab: Decision Trees]()\
+* Chapter 9: Support Vector Machines\
   Maximal Margin Classifier\
   Support Vector Classifiers\
   Support Vector Machines\
   SVMs with More than Two Classes\
   Relationship to Logistic Regression\
-* [Chapter 10: Unsupervised Learning]()\
-  [Principal Components Analysis]()\
-  [Clustering]()\
-  [NCI60 Data Example]()\
+  [Lab: Support Vector Machines]()\
+* Chapter 10: Unsupervised Learning\
   Principal Components Analysis\
   Clustering Methods\
     K-Means Clustering\
     Hierarchical Clustering\
+  [Lab 1: Principal Components Analysis]()\
+  [Lab 2: Clustering]()\
+  [Lab 3: NCI60 Data Example]()\
